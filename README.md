@@ -2,25 +2,16 @@
 stuff related to my talk at VJAI meetup about the Transformers
 
 # Slides:
-Main talk:
-```
-https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Transformers%40VJAI.pdf
-```
-Distillation:
-```
-https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf
-
-```
+[Main talk](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Transformers%40VJAI.pdf)
+[Distillation](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf)
 
 # Takeaway code
 ## All together:
-```
-https://github.com/anhnt170489/vjai_bert_meetup/blob/master/takeaway.py
-```
+[takeaway.py](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/takeaway.py)
+
 ## Use sentencepiece to build vocab
-```
-https://github.com/anhnt170489/vjai_bert_meetup/blob/master/build_vocab.py
-```
+[build_vocab.py](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/build_vocab.py)
+
 ## Use tokenizer
 ```
 tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=False)
