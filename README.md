@@ -3,6 +3,7 @@ stuff related to my talk at VJAI meetup about the Transformers
 
 # Slides:
 [Main talk](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Transformers%40VJAI.pdf)
+
 [Distillation](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf)
 
 # Takeaway code
