@@ -6,6 +6,8 @@ stuff related to my talk at VJAI meetup about the Transformers
 
 [Distillation](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/Distilling%20Bert%40AIST.pdf)
 
+[Huggingface tutorial](https://huggingface.co/blog/how-to-train)
+
 # Takeaway code
 ## All together:
 [takeaway.py](https://github.com/anhnt170489/vjai_bert_meetup/blob/master/takeaway.py)
